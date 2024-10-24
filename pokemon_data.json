@@ -1,0 +1,3766 @@
+[
+    {
+        "name": "Bulbasaur",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Ivysaur",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Venusaur",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Charmander",
+        "type": [
+            "Fire"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Charmeleon",
+        "type": [
+            "Fire"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Charizard",
+        "type": [
+            "Fire",
+            "Flying"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Squirtle",
+        "type": [
+            "Water"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Blastoise",
+        "type": [
+            "Water"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Pidgeotto",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Pidgeot",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Vulpix",
+        "type": [
+            "Fire"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Ninetales",
+        "type": [
+            "Fire"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Diglett",
+        "type": [
+            "Ground"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Dugtrio",
+        "type": [
+            "Ground"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Pikachu",
+        "type": [
+            "Electric"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Raichu",
+        "type": [
+            "Electric"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Psyduck",
+        "type": [
+            "Water"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Golduck",
+        "type": [
+            "Water"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Mankey",
+        "type": [
+            "Fighting"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Primeape",
+        "type": [
+            "Fighting"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Growlithe",
+        "type": [
+            "Fire"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Arcanine",
+        "type": [
+            "Fire"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Poliwag",
+        "type": [
+            "Water"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Poliwhirl",
+        "type": [
+            "Water"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Poliwrath",
+        "type": [
+            "Water",
+            "Fighting"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Abra",
+        "type": [
+            "Psychic"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Kadabra",
+        "type": [
+            "Psychic"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Alakazam",
+        "type": [
+            "Psychic"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Machop",
+        "type": [
+            "Fighting"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Tentacool",
+        "type": [
+            "Water",
+            "Poison"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Tentacruel",
+        "type": [
+            "Water",
+            "Poison"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Slowpoke",
+        "type": [
+            "Water",
+            "Psychic"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Slowbro",
+        "type": [
+            "Water",
+            "Psychic"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Farfetch\u2019d",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Doduo",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Dodrio",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Grimer",
+        "type": [
+            "Poison"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Muk",
+        "type": [
+            "Poison"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Gastly",
+        "type": [
+            "Ghost",
+            "Poison"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Haunter",
+        "type": [
+            "Ghost",
+            "Poison"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Gengar",
+        "type": [
+            "Ghost",
+            "Poison"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Krabby",
+        "type": [
+            "Water"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Kingler",
+        "type": [
+            "Water"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Cubone",
+        "type": [
+            "Ground"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Marowak",
+        "type": [
+            "Ground"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Hitmonlee",
+        "type": [
+            "Fighting"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Hitmonchan",
+        "type": [
+            "Fighting"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Lickitung",
+        "type": [
+            "Normal"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Koffing",
+        "type": [
+            "Poison"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Weezing",
+        "type": [
+            "Poison"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Kangaskhan",
+        "type": [
+            "Normal"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Horsea",
+        "type": [
+            "Water"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Seadra",
+        "type": [
+            "Water"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Staryu",
+        "type": [
+            "Water"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Starmie",
+        "type": [
+            "Water",
+            "Psychic"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Scyther",
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Electabuzz",
+        "type": [
+            "Electric"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Magmar",
+        "type": [
+            "Fire"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Tauros",
+        "type": [
+            "Normal"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Gyarados",
+        "type": [
+            "Water",
+            "Flying"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Lapras",
+        "type": [
+            "Water",
+            "Ice"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Vaporeon",
+        "type": [
+            "Water"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Jolteon",
+        "type": [
+            "Electric"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Kabutops",
+        "type": [
+            "Rock",
+            "Water"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Snorlax",
+        "type": [
+            "Normal"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Dratini",
+        "type": [
+            "Dragon"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Dragonair",
+        "type": [
+            "Dragon"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Dragonite",
+        "type": [
+            "Dragon",
+            "Flying"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Mewtwo",
+        "type": [
+            "Psychic"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Mew",
+        "type": [
+            "Psychic"
+        ],
+        "region": "Kanto"
+    },
+    {
+        "name": "Chikorita",
+        "type": [
+            "Grass"
+        ],
+        "region": "Johto"
+    },
+    {
+        "name": "Bayleef",
+        "type": [
+            "Grass"
+        ],
+        "region": "Johto"
+    },
+    {
+        "name": "Meganium",
+        "type": [
+            "Grass"
+        ],
+        "region": "Johto"
+    },
+    {
+        "name": "Cyndaquil",
+        "type": [
+            "Fire"
+        ],
+        "region": "Johto"
+    },
+    {
+        "name": "Quilava",
+        "type": [
+            "Fire"
+        ],
+        "region": "Johto"
+    },
+    {
+        "name": "Typhlosion",
+        "type": [
+            "Fire"
+        ],
+        "region": "Johto"
+    },
+    {
+        "name": "Totodile",
+        "type": [
+            "Water"
+        ],
+        "region": "Johto"
+    },
+    {
+        "name": "Croconaw",
+        "type": [
+            "Water"
+        ],
+        "region": "Johto"
+    },
+    {
+        "name": "Feraligatr",
+        "type": [
+            "Water"
+        ],
+        "region": "Johto"
+    },
+    {
+        "name": "Noctowl",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "region": "Johto"
+    },
+    {
+        "name": "Ledian",
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "region": "Johto"
+    },
+    {
+        "name": "Lanturn",
+        "type": [
+            "Water",
+            "Electric"
+        ],
+        "region": "Johto"
+    },
+    {
+        "name": "Togepi",
+        "type": [
+            "Fairy"
+        ],
+        "region": "Johto"
+    },
+    {
+        "name": "Natu",
+        "type": [
+            "Psychic",
+            "Flying"
+        ],
+        "region": "Johto"
+    },
+    {
+        "name": "Xatu",
+        "type": [
+            "Psychic",
+            "Flying"
+        ],
+        "region": "Johto"
+    },
+    {
+        "name": "Ampharos",
+        "type": [
+            "Electric"
+        ],
+        "region": "Johto"
+    },
+    {
+        "name": "Marill",
+        "type": [
+            "Water",
+            "Fairy"
+        ],
+        "region": "Johto"
+    },
+    {
+        "name": "Yanma",
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "region": "Johto"
+    },
+    {
+        "name": "Quagsire",
+        "type": [
+            "Water",
+            "Ground"
+        ],
+        "region": "Johto"
+    },
+    {
+        "name": "Espeon",
+        "type": [
+            "Psychic"
+        ],
+        "region": "Johto"
+    },
+    {
+        "name": "Umbreon",
+        "type": [
+            "Dark"
+        ],
+        "region": "Johto"
+    },
+    {
+        "name": "Slowking",
+        "type": [
+            "Water",
+            "Psychic"
+        ],
+        "region": "Johto"
+    },
+    {
+        "name": "Wobbuffet",
+        "type": [
+            "Psychic"
+        ],
+        "region": "Johto"
+    },
+    {
+        "name": "Girafarig",
+        "type": [
+            "Normal",
+            "Psychic"
+        ],
+        "region": "Johto"
+    },
+    {
+        "name": "Gligar",
+        "type": [
+            "Ground",
+            "Flying"
+        ],
+        "region": "Johto"
+    },
+    {
+        "name": "Steelix",
+        "type": [
+            "Steel",
+            "Ground"
+        ],
+        "region": "Johto"
+    },
+    {
+        "name": "Scizor",
+        "type": [
+            "Bug",
+            "Steel"
+        ],
+        "region": "Johto"
+    },
+    {
+        "name": "Heracross",
+        "type": [
+            "Bug",
+            "Fighting"
+        ],
+        "region": "Johto"
+    },
+    {
+        "name": "Sneasel",
+        "type": [
+            "Dark",
+            "Ice"
+        ],
+        "region": "Johto"
+    },
+    {
+        "name": "Teddiursa",
+        "type": [
+            "Normal"
+        ],
+        "region": "Johto"
+    },
+    {
+        "name": "Ursaring",
+        "type": [
+            "Normal"
+        ],
+        "region": "Johto"
+    },
+    {
+        "name": "Swinub",
+        "type": [
+            "Ice",
+            "Ground"
+        ],
+        "region": "Johto"
+    },
+    {
+        "name": "Piloswine",
+        "type": [
+            "Ice",
+            "Ground"
+        ],
+        "region": "Johto"
+    },
+    {
+        "name": "Skarmory",
+        "type": [
+            "Steel",
+            "Flying"
+        ],
+        "region": "Johto"
+    },
+    {
+        "name": "Houndour",
+        "type": [
+            "Dark",
+            "Fire"
+        ],
+        "region": "Johto"
+    },
+    {
+        "name": "Houndoom",
+        "type": [
+            "Dark",
+            "Fire"
+        ],
+        "region": "Johto"
+    },
+    {
+        "name": "Kingdra",
+        "type": [
+            "Water",
+            "Dragon"
+        ],
+        "region": "Johto"
+    },
+    {
+        "name": "Phanpy",
+        "type": [
+            "Ground"
+        ],
+        "region": "Johto"
+    },
+    {
+        "name": "Donphan",
+        "type": [
+            "Ground"
+        ],
+        "region": "Johto"
+    },
+    {
+        "name": "Elekid",
+        "type": [
+            "Electric"
+        ],
+        "region": "Johto"
+    },
+    {
+        "name": "Magby",
+        "type": [
+            "Fire"
+        ],
+        "region": "Johto"
+    },
+    {
+        "name": "Raikou",
+        "type": [
+            "Electric"
+        ],
+        "region": "Johto"
+    },
+    {
+        "name": "Entei",
+        "type": [
+            "Fire"
+        ],
+        "region": "Johto"
+    },
+    {
+        "name": "Suicune",
+        "type": [
+            "Water"
+        ],
+        "region": "Johto"
+    },
+    {
+        "name": "Larvitar",
+        "type": [
+            "Rock",
+            "Dark"
+        ],
+        "region": "Johto"
+    },
+    {
+        "name": "Tyranitar",
+        "type": [
+            "Rock",
+            "Dark"
+        ],
+        "region": "Johto"
+    },
+    {
+        "name": "Lugia",
+        "type": [
+            "Psychic",
+            "Flying"
+        ],
+        "region": "Johto"
+    },
+    {
+        "name": "Celebi",
+        "type": [
+            "Psychic",
+            "Grass"
+        ],
+        "region": "Johto"
+    },
+    {
+        "name": "Treecko",
+        "type": [
+            "Grass"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Grovyle",
+        "type": [
+            "Grass"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Sceptile",
+        "type": [
+            "Grass"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Torchic",
+        "type": [
+            "Fire"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Combusken",
+        "type": [
+            "Fire",
+            "Fighting"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Blaziken",
+        "type": [
+            "Fire",
+            "Fighting"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Mudkip",
+        "type": [
+            "Water"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Swampert",
+        "type": [
+            "Water",
+            "Ground"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Poochyena",
+        "type": [
+            "Dark"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Mightyena",
+        "type": [
+            "Dark"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Beautifly",
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Nuzleaf",
+        "type": [
+            "Grass",
+            "Dark"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Shiftry",
+        "type": [
+            "Grass",
+            "Dark"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Taillow",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Swellow",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Ralts",
+        "type": [
+            "Psychic",
+            "Fairy"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Kirlia",
+        "type": [
+            "Psychic",
+            "Fairy"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Gardevoir",
+        "type": [
+            "Psychic",
+            "Fairy"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Breloom",
+        "type": [
+            "Grass",
+            "Fighting"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Slakoth",
+        "type": [
+            "Normal"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Vigoroth",
+        "type": [
+            "Normal"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Slaking",
+        "type": [
+            "Normal"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Ninjask",
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Loudred",
+        "type": [
+            "Normal"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Exploud",
+        "type": [
+            "Normal"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Makuhita",
+        "type": [
+            "Fighting"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Hariyama",
+        "type": [
+            "Fighting"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Sableye",
+        "type": [
+            "Dark",
+            "Ghost"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Mawile",
+        "type": [
+            "Steel",
+            "Fairy"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Aron",
+        "type": [
+            "Steel",
+            "Rock"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Lairon",
+        "type": [
+            "Steel",
+            "Rock"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Aggron",
+        "type": [
+            "Steel",
+            "Rock"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Meditite",
+        "type": [
+            "Fighting",
+            "Psychic"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Medicham",
+        "type": [
+            "Fighting",
+            "Psychic"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Swalot",
+        "type": [
+            "Poison"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Carvanha",
+        "type": [
+            "Water",
+            "Dark"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Sharpedo",
+        "type": [
+            "Water",
+            "Dark"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Camerupt",
+        "type": [
+            "Fire",
+            "Ground"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Torkoal",
+        "type": [
+            "Fire"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Trapinch",
+        "type": [
+            "Ground"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Vibrava",
+        "type": [
+            "Ground",
+            "Dragon"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Flygon",
+        "type": [
+            "Ground",
+            "Dragon"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Cacnea",
+        "type": [
+            "Grass"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Cacturne",
+        "type": [
+            "Grass",
+            "Dark"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Zangoose",
+        "type": [
+            "Normal"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Seviper",
+        "type": [
+            "Poison"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Corphish",
+        "type": [
+            "Water"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Crawdaunt",
+        "type": [
+            "Water",
+            "Dark"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Armaldo",
+        "type": [
+            "Rock",
+            "Bug"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Milotic",
+        "type": [
+            "Water"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Banette",
+        "type": [
+            "Ghost"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Duskull",
+        "type": [
+            "Ghost"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Dusclops",
+        "type": [
+            "Ghost"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Tropius",
+        "type": [
+            "Grass",
+            "Flying"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Absol",
+        "type": [
+            "Dark"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Snorunt",
+        "type": [
+            "Ice"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Glalie",
+        "type": [
+            "Ice"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Spheal",
+        "type": [
+            "Ice",
+            "Water"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Sealeo",
+        "type": [
+            "Ice",
+            "Water"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Walrein",
+        "type": [
+            "Ice",
+            "Water"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Beldum",
+        "type": [
+            "Steel",
+            "Psychic"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Metang",
+        "type": [
+            "Steel",
+            "Psychic"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Metagross",
+        "type": [
+            "Steel",
+            "Psychic"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Latias",
+        "type": [
+            "Dragon",
+            "Psychic"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Latios",
+        "type": [
+            "Dragon",
+            "Psychic"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Kyogre",
+        "type": [
+            "Water"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Groudon",
+        "type": [
+            "Ground"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Rayquaza",
+        "type": [
+            "Dragon",
+            "Flying"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Jirachi",
+        "type": [
+            "Steel",
+            "Psychic"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Deoxys",
+        "type": [
+            "Psychic"
+        ],
+        "region": "Hoenn"
+    },
+    {
+        "name": "Turtwig",
+        "type": [
+            "Grass"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Grotle",
+        "type": [
+            "Grass"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Torterra",
+        "type": [
+            "Grass",
+            "Ground"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Chimchar",
+        "type": [
+            "Fire"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Monferno",
+        "type": [
+            "Fire",
+            "Fighting"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Infernape",
+        "type": [
+            "Fire",
+            "Fighting"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Piplup",
+        "type": [
+            "Water"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Empoleon",
+        "type": [
+            "Water",
+            "Steel"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Staraptor",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Shinx",
+        "type": [
+            "Electric"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Luxio",
+        "type": [
+            "Electric"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Luxray",
+        "type": [
+            "Electric"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Roserade",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Cranidos",
+        "type": [
+            "Rock"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Rampardos",
+        "type": [
+            "Rock"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Shieldon",
+        "type": [
+            "Rock",
+            "Steel"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Bastiodon",
+        "type": [
+            "Rock",
+            "Steel"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Buizel",
+        "type": [
+            "Water"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Floatzel",
+        "type": [
+            "Water"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Gastrodon",
+        "type": [
+            "Water",
+            "Ground"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Drifblim",
+        "type": [
+            "Ghost",
+            "Flying"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Buneary",
+        "type": [
+            "Normal"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Lopunny",
+        "type": [
+            "Normal"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Mismagius",
+        "type": [
+            "Ghost"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Honchkrow",
+        "type": [
+            "Dark",
+            "Flying"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Stunky",
+        "type": [
+            "Poison",
+            "Dark"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Skuntank",
+        "type": [
+            "Poison",
+            "Dark"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Spiritomb",
+        "type": [
+            "Ghost",
+            "Dark"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Gible",
+        "type": [
+            "Dragon",
+            "Ground"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Gabite",
+        "type": [
+            "Dragon",
+            "Ground"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Garchomp",
+        "type": [
+            "Dragon",
+            "Ground"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Munchlax",
+        "type": [
+            "Normal"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Riolu",
+        "type": [
+            "Fighting"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Lucario",
+        "type": [
+            "Fighting",
+            "Steel"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Hippowdon",
+        "type": [
+            "Ground"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Drapion",
+        "type": [
+            "Poison",
+            "Dark"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Croagunk",
+        "type": [
+            "Poison",
+            "Fighting"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Toxicroak",
+        "type": [
+            "Poison",
+            "Fighting"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Snover",
+        "type": [
+            "Grass",
+            "Ice"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Abomasnow",
+        "type": [
+            "Grass",
+            "Ice"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Weavile",
+        "type": [
+            "Dark",
+            "Ice"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Magnezone",
+        "type": [
+            "Electric",
+            "Steel"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Electivire",
+        "type": [
+            "Electric"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Magmortar",
+        "type": [
+            "Fire"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Togekiss",
+        "type": [
+            "Fairy",
+            "Flying"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Yanmega",
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Glaceon",
+        "type": [
+            "Ice"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Gliscor",
+        "type": [
+            "Ground",
+            "Flying"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Mamoswine",
+        "type": [
+            "Ice",
+            "Ground"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Gallade",
+        "type": [
+            "Psychic",
+            "Fighting"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Dusknoir",
+        "type": [
+            "Ghost"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Froslass",
+        "type": [
+            "Ice",
+            "Ghost"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Uxie",
+        "type": [
+            "Psychic"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Mesprit",
+        "type": [
+            "Psychic"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Azelf",
+        "type": [
+            "Psychic"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Dialga",
+        "type": [
+            "Steel",
+            "Dragon"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Palkia",
+        "type": [
+            "Water",
+            "Dragon"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Regigigas",
+        "type": [
+            "Normal"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Giratina",
+        "type": [
+            "Ghost",
+            "Dragon"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Cresselia",
+        "type": [
+            "Psychic"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Darkrai",
+        "type": [
+            "Dark"
+        ],
+        "region": "Sinnoh"
+    },
+    {
+        "name": "Victini",
+        "type": [
+            "Psychic",
+            "Fire"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Snivy",
+        "type": [
+            "Grass"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Servine",
+        "type": [
+            "Grass"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Serperior",
+        "type": [
+            "Grass"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Tepig",
+        "type": [
+            "Fire"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Pignite",
+        "type": [
+            "Fire",
+            "Fighting"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Emboar",
+        "type": [
+            "Fire",
+            "Fighting"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Oshawott",
+        "type": [
+            "Water"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Dewott",
+        "type": [
+            "Water"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Samurott",
+        "type": [
+            "Water"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Patrat",
+        "type": [
+            "Normal"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Watchog",
+        "type": [
+            "Normal"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Lillipup",
+        "type": [
+            "Normal"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Herdier",
+        "type": [
+            "Normal"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Stoutland",
+        "type": [
+            "Normal"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Blitzle",
+        "type": [
+            "Electric"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Zebstrika",
+        "type": [
+            "Electric"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Gigalith",
+        "type": [
+            "Rock"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Drilbur",
+        "type": [
+            "Ground"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Excadrill",
+        "type": [
+            "Ground",
+            "Steel"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Timburr",
+        "type": [
+            "Fighting"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Gurdurr",
+        "type": [
+            "Fighting"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Conkeldurr",
+        "type": [
+            "Fighting"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Throh",
+        "type": [
+            "Fighting"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Sawk",
+        "type": [
+            "Fighting"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Sewaddle",
+        "type": [
+            "Bug",
+            "Grass"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Swadloon",
+        "type": [
+            "Bug",
+            "Grass"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Leavanny",
+        "type": [
+            "Bug",
+            "Grass"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Venipede",
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Whirlipede",
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Scolipede",
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Sandile",
+        "type": [
+            "Ground",
+            "Dark"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Krokorok",
+        "type": [
+            "Ground",
+            "Dark"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Krookodile",
+        "type": [
+            "Ground",
+            "Dark"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Darmanitan",
+        "type": [
+            "Fire"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Dwebble",
+        "type": [
+            "Bug",
+            "Rock"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Crustle",
+        "type": [
+            "Bug",
+            "Rock"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Scraggy",
+        "type": [
+            "Dark",
+            "Fighting"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Scrafty",
+        "type": [
+            "Dark",
+            "Fighting"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Yamask",
+        "type": [
+            "Ghost"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Cofagrigus",
+        "type": [
+            "Ghost"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Archen",
+        "type": [
+            "Rock",
+            "Flying"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Archeops",
+        "type": [
+            "Rock",
+            "Flying"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Trubbish",
+        "type": [
+            "Poison"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Garbodor",
+        "type": [
+            "Poison"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Zorua",
+        "type": [
+            "Dark"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Zoroark",
+        "type": [
+            "Dark"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Solosis",
+        "type": [
+            "Psychic"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Duosion",
+        "type": [
+            "Psychic"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Reuniclus",
+        "type": [
+            "Psychic"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Emolga",
+        "type": [
+            "Electric",
+            "Flying"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Escavalier",
+        "type": [
+            "Bug",
+            "Steel"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Joltik",
+        "type": [
+            "Bug",
+            "Electric"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Galvantula",
+        "type": [
+            "Bug",
+            "Electric"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Elgyem",
+        "type": [
+            "Psychic"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Beheeyem",
+        "type": [
+            "Psychic"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Litwick",
+        "type": [
+            "Ghost",
+            "Fire"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Lampent",
+        "type": [
+            "Ghost",
+            "Fire"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Chandelure",
+        "type": [
+            "Ghost",
+            "Fire"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Axew",
+        "type": [
+            "Dragon"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Fraxure",
+        "type": [
+            "Dragon"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Haxorus",
+        "type": [
+            "Dragon"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Cubchoo",
+        "type": [
+            "Ice"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Beartic",
+        "type": [
+            "Ice"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Accelgor",
+        "type": [
+            "Bug"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Mienfoo",
+        "type": [
+            "Fighting"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Mienshao",
+        "type": [
+            "Fighting"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Druddigon",
+        "type": [
+            "Dragon"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Golett",
+        "type": [
+            "Ground",
+            "Ghost"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Golurk",
+        "type": [
+            "Ground",
+            "Ghost"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Pawniard",
+        "type": [
+            "Dark",
+            "Steel"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Bisharp",
+        "type": [
+            "Dark",
+            "Steel"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Bouffalant",
+        "type": [
+            "Normal"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Rufflet",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Braviary",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Vullaby",
+        "type": [
+            "Dark",
+            "Flying"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Mandibuzz",
+        "type": [
+            "Dark",
+            "Flying"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Durant",
+        "type": [
+            "Bug",
+            "Steel"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Deino",
+        "type": [
+            "Dark",
+            "Dragon"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Zweilous",
+        "type": [
+            "Dark",
+            "Dragon"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Hydreigon",
+        "type": [
+            "Dark",
+            "Dragon"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Larvesta",
+        "type": [
+            "Bug",
+            "Fire"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Volcarona",
+        "type": [
+            "Bug",
+            "Fire"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Cobalion",
+        "type": [
+            "Steel",
+            "Fighting"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Terrakion",
+        "type": [
+            "Rock",
+            "Fighting"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Thundurus",
+        "type": [
+            "Electric",
+            "Flying"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Reshiram",
+        "type": [
+            "Dragon",
+            "Fire"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Zekrom",
+        "type": [
+            "Dragon",
+            "Electric"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Tornadus",
+        "type": [
+            "Flying"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Kyurem",
+        "type": [
+            "Dragon",
+            "Ice"
+        ],
+        "region": "Unova"
+    },
+    {
+        "name": "Chespin",
+        "type": [
+            "Grass"
+        ],
+        "region": "Kalos"
+    },
+    {
+        "name": "Quilladin",
+        "type": [
+            "Grass"
+        ],
+        "region": "Kalos"
+    },
+    {
+        "name": "Chesnaught",
+        "type": [
+            "Grass",
+            "Fighting"
+        ],
+        "region": "Kalos"
+    },
+    {
+        "name": "Fennekin",
+        "type": [
+            "Fire"
+        ],
+        "region": "Kalos"
+    },
+    {
+        "name": "Braixen",
+        "type": [
+            "Fire"
+        ],
+        "region": "Kalos"
+    },
+    {
+        "name": "Delphox",
+        "type": [
+            "Fire",
+            "Psychic"
+        ],
+        "region": "Kalos"
+    },
+    {
+        "name": "Froakie",
+        "type": [
+            "Water"
+        ],
+        "region": "Kalos"
+    },
+    {
+        "name": "Frogadier",
+        "type": [
+            "Water"
+        ],
+        "region": "Kalos"
+    },
+    {
+        "name": "Greninja",
+        "type": [
+            "Water",
+            "Dark"
+        ],
+        "region": "Kalos"
+    },
+    {
+        "name": "Bunnelby",
+        "type": [
+            "Normal"
+        ],
+        "region": "Kalos"
+    },
+    {
+        "name": "Diggersby",
+        "type": [
+            "Normal",
+            "Ground"
+        ],
+        "region": "Kalos"
+    },
+    {
+        "name": "Fletchling",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "region": "Kalos"
+    },
+    {
+        "name": "Fletchinder",
+        "type": [
+            "Fire",
+            "Flying"
+        ],
+        "region": "Kalos"
+    },
+    {
+        "name": "Talonflame",
+        "type": [
+            "Fire",
+            "Flying"
+        ],
+        "region": "Kalos"
+    },
+    {
+        "name": "Pancham",
+        "type": [
+            "Fighting"
+        ],
+        "region": "Kalos"
+    },
+    {
+        "name": "Pangoro",
+        "type": [
+            "Fighting",
+            "Dark"
+        ],
+        "region": "Kalos"
+    },
+    {
+        "name": "Espurr",
+        "type": [
+            "Psychic"
+        ],
+        "region": "Kalos"
+    },
+    {
+        "name": "Meowstic",
+        "type": [
+            "Psychic"
+        ],
+        "region": "Kalos"
+    },
+    {
+        "name": "Aegislash",
+        "type": [
+            "Steel",
+            "Ghost"
+        ],
+        "region": "Kalos"
+    },
+    {
+        "name": "Inkay",
+        "type": [
+            "Dark",
+            "Psychic"
+        ],
+        "region": "Kalos"
+    },
+    {
+        "name": "Malamar",
+        "type": [
+            "Dark",
+            "Psychic"
+        ],
+        "region": "Kalos"
+    },
+    {
+        "name": "Skrelp",
+        "type": [
+            "Poison",
+            "Water"
+        ],
+        "region": "Kalos"
+    },
+    {
+        "name": "Dragalge",
+        "type": [
+            "Poison",
+            "Dragon"
+        ],
+        "region": "Kalos"
+    },
+    {
+        "name": "Helioptile",
+        "type": [
+            "Electric",
+            "Normal"
+        ],
+        "region": "Kalos"
+    },
+    {
+        "name": "Heliolisk",
+        "type": [
+            "Electric",
+            "Normal"
+        ],
+        "region": "Kalos"
+    },
+    {
+        "name": "Tyrunt",
+        "type": [
+            "Rock",
+            "Dragon"
+        ],
+        "region": "Kalos"
+    },
+    {
+        "name": "Tyrantrum",
+        "type": [
+            "Rock",
+            "Dragon"
+        ],
+        "region": "Kalos"
+    },
+    {
+        "name": "Amaura",
+        "type": [
+            "Rock",
+            "Ice"
+        ],
+        "region": "Kalos"
+    },
+    {
+        "name": "Aurorus",
+        "type": [
+            "Rock",
+            "Ice"
+        ],
+        "region": "Kalos"
+    },
+    {
+        "name": "Sylveon",
+        "type": [
+            "Fairy"
+        ],
+        "region": "Kalos"
+    },
+    {
+        "name": "Hawlucha",
+        "type": [
+            "Fighting",
+            "Flying"
+        ],
+        "region": "Kalos"
+    },
+    {
+        "name": "Goomy",
+        "type": [
+            "Dragon"
+        ],
+        "region": "Kalos"
+    },
+    {
+        "name": "Sliggoo",
+        "type": [
+            "Dragon"
+        ],
+        "region": "Kalos"
+    },
+    {
+        "name": "Goodra",
+        "type": [
+            "Dragon"
+        ],
+        "region": "Kalos"
+    },
+    {
+        "name": "Phantump",
+        "type": [
+            "Ghost",
+            "Grass"
+        ],
+        "region": "Kalos"
+    },
+    {
+        "name": "Trevenant",
+        "type": [
+            "Ghost",
+            "Grass"
+        ],
+        "region": "Kalos"
+    },
+    {
+        "name": "Noibat",
+        "type": [
+            "Flying",
+            "Dragon"
+        ],
+        "region": "Kalos"
+    },
+    {
+        "name": "Noivern",
+        "type": [
+            "Flying",
+            "Dragon"
+        ],
+        "region": "Kalos"
+    },
+    {
+        "name": "Xerneas",
+        "type": [
+            "Fairy"
+        ],
+        "region": "Kalos"
+    },
+    {
+        "name": "Yveltal",
+        "type": [
+            "Dark",
+            "Flying"
+        ],
+        "region": "Kalos"
+    },
+    {
+        "name": "Hoopa",
+        "type": [
+            "Psychic",
+            "Ghost"
+        ],
+        "region": "Kalos"
+    },
+    {
+        "name": "Grookey",
+        "type": [
+            "Grass"
+        ],
+        "region": "Galar"
+    },
+    {
+        "name": "Rillaboom",
+        "type": [
+            "Grass"
+        ],
+        "region": "Galar"
+    },
+    {
+        "name": "Scorbunny",
+        "type": [
+            "Fire"
+        ],
+        "region": "Galar"
+    },
+    {
+        "name": "Raboot",
+        "type": [
+            "Fire"
+        ],
+        "region": "Galar"
+    },
+    {
+        "name": "Sobble",
+        "type": [
+            "Water"
+        ],
+        "region": "Galar"
+    },
+    {
+        "name": "Drizzile",
+        "type": [
+            "Water"
+        ],
+        "region": "Galar"
+    },
+    {
+        "name": "Inteleon",
+        "type": [
+            "Water"
+        ],
+        "region": "Galar"
+    },
+    {
+        "name": "Corvisquire",
+        "type": [
+            "Flying"
+        ],
+        "region": "Galar"
+    },
+    {
+        "name": "Corviknight",
+        "type": [
+            "Flying",
+            "Steel"
+        ],
+        "region": "Galar"
+    },
+    {
+        "name": "Orbeetle",
+        "type": [
+            "Bug",
+            "Psychic"
+        ],
+        "region": "Galar"
+    },
+    {
+        "name": "Flapple",
+        "type": [
+            "Grass",
+            "Dragon"
+        ],
+        "region": "Galar"
+    },
+    {
+        "name": "Appletun",
+        "type": [
+            "Grass",
+            "Dragon"
+        ],
+        "region": "Galar"
+    },
+    {
+        "name": "Toxel",
+        "type": [
+            "Electric",
+            "Poison"
+        ],
+        "region": "Galar"
+    },
+    {
+        "name": "Toxtricity",
+        "type": [
+            "Electric",
+            "Poison"
+        ],
+        "region": "Galar"
+    },
+    {
+        "name": "Clobbopus",
+        "type": [
+            "Fighting"
+        ],
+        "region": "Galar"
+    },
+    {
+        "name": "Grapploct",
+        "type": [
+            "Fighting"
+        ],
+        "region": "Galar"
+    },
+    {
+        "name": "Hatenna",
+        "type": [
+            "Psychic"
+        ],
+        "region": "Galar"
+    },
+    {
+        "name": "Hattrem",
+        "type": [
+            "Psychic"
+        ],
+        "region": "Galar"
+    },
+    {
+        "name": "Hatterene",
+        "type": [
+            "Psychic",
+            "Fairy"
+        ],
+        "region": "Galar"
+    },
+    {
+        "name": "Impidimp",
+        "type": [
+            "Dark",
+            "Fairy"
+        ],
+        "region": "Galar"
+    },
+    {
+        "name": "Morgrem",
+        "type": [
+            "Dark",
+            "Fairy"
+        ],
+        "region": "Galar"
+    },
+    {
+        "name": "Grimmsnarl",
+        "type": [
+            "Dark",
+            "Fairy"
+        ],
+        "region": "Galar"
+    },
+    {
+        "name": "Obstagoon",
+        "type": [
+            "Dark",
+            "Normal"
+        ],
+        "region": "Galar"
+    },
+    {
+        "name": "Perrserker",
+        "type": [
+            "Steel"
+        ],
+        "region": "Galar"
+    },
+    {
+        "name": "Sirfetch\u2019d",
+        "type": [
+            "Fighting"
+        ],
+        "region": "Galar"
+    },
+    {
+        "name": "Runerigus",
+        "type": [
+            "Ground",
+            "Ghost"
+        ],
+        "region": "Galar"
+    },
+    {
+        "name": "Falinks",
+        "type": [
+            "Fighting"
+        ],
+        "region": "Galar"
+    },
+    {
+        "name": "Frosmoth",
+        "type": [
+            "Ice",
+            "Bug"
+        ],
+        "region": "Galar"
+    },
+    {
+        "name": "Stonjourner",
+        "type": [
+            "Rock"
+        ],
+        "region": "Galar"
+    },
+    {
+        "name": "Copperajah",
+        "type": [
+            "Steel"
+        ],
+        "region": "Galar"
+    },
+    {
+        "name": "Dracovish",
+        "type": [
+            "Water",
+            "Dragon"
+        ],
+        "region": "Galar"
+    },
+    {
+        "name": "Dreepy",
+        "type": [
+            "Dragon",
+            "Ghost"
+        ],
+        "region": "Galar"
+    },
+    {
+        "name": "Drakloak",
+        "type": [
+            "Dragon",
+            "Ghost"
+        ],
+        "region": "Galar"
+    },
+    {
+        "name": "Dragapult",
+        "type": [
+            "Dragon",
+            "Ghost"
+        ],
+        "region": "Galar"
+    },
+    {
+        "name": "Zacian",
+        "type": [
+            "Fairy",
+            "Steel"
+        ],
+        "region": "Galar"
+    },
+    {
+        "name": "Zamazenta",
+        "type": [
+            "Fighting",
+            "Steel"
+        ],
+        "region": "Galar"
+    },
+    {
+        "name": "Urshifu",
+        "type": [
+            "Fighting",
+            "Water"
+        ],
+        "region": "Galar"
+    },
+    {
+        "name": "Regidrago",
+        "type": [
+            "Dragon"
+        ],
+        "region": "Galar"
+    },
+    {
+        "name": "Glastrier",
+        "type": [
+            "Ice"
+        ],
+        "region": "Galar"
+    },
+    {
+        "name": "Spectrier",
+        "type": [
+            "Ghost"
+        ],
+        "region": "Galar"
+    },
+    {
+        "name": "Galarian Slowbro",
+        "type": [
+            "Poison",
+            "Psychic"
+        ],
+        "region": "Galar"
+    },
+    {
+        "name": "Galarian Slowking",
+        "type": [
+            "Poison",
+            "Psychic"
+        ],
+        "region": "Galar"
+    },
+    {
+        "name": "Galarian Articuno",
+        "type": [
+            "Psychic",
+            "Flying"
+        ],
+        "region": "Galar"
+    },
+    {
+        "name": "Galarian Zapdos",
+        "type": [
+            "Fighting",
+            "Flying"
+        ],
+        "region": "Galar"
+    },
+    {
+        "name": "Kleavor",
+        "type": [
+            "Bug",
+            "Rock"
+        ],
+        "region": "Hisui"
+    },
+    {
+        "name": "Ursaluna",
+        "type": [
+            "Ground",
+            "Normal"
+        ],
+        "region": "Hisui"
+    },
+    {
+        "name": "Sneasler",
+        "type": [
+            "Fighting",
+            "Poison"
+        ],
+        "region": "Hisui"
+    },
+    {
+        "name": "Overqwil",
+        "type": [
+            "Dark",
+            "Poison"
+        ],
+        "region": "Hisui"
+    },
+    {
+        "name": "Hisuian Growlithe",
+        "type": [
+            "Fire",
+            "Rock"
+        ],
+        "region": "Hisui"
+    },
+    {
+        "name": "Hisuian Arcanine",
+        "type": [
+            "Fire",
+            "Rock"
+        ],
+        "region": "Hisui"
+    },
+    {
+        "name": "Hisuian Sneasel",
+        "type": [
+            "Fighting",
+            "Poison"
+        ],
+        "region": "Hisui"
+    },
+    {
+        "name": "Hisuian Lilligant",
+        "type": [
+            "Grass",
+            "Fighting"
+        ],
+        "region": "Hisui"
+    },
+    {
+        "name": "Hisuian Zorua",
+        "type": [
+            "Normal",
+            "Ghost"
+        ],
+        "region": "Hisui"
+    },
+    {
+        "name": "Hisuian Zoroark",
+        "type": [
+            "Normal",
+            "Ghost"
+        ],
+        "region": "Hisui"
+    },
+    {
+        "name": "Hisuian Braviary",
+        "type": [
+            "Psychic",
+            "Flying"
+        ],
+        "region": "Hisui"
+    },
+    {
+        "name": "Hisuian Goodra",
+        "type": [
+            "Steel",
+            "Dragon"
+        ],
+        "region": "Hisui"
+    },
+    {
+        "name": "Floragato",
+        "type": [
+            "Grass"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Fuecoco",
+        "type": [
+            "Fire"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Lechonk",
+        "type": [
+            "Normal"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Oinkologne",
+        "type": [
+            "Normal"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Spidops",
+        "type": [
+            "Bug"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Pawmi",
+        "type": [
+            "Electric"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Pawmo",
+        "type": [
+            "Electric",
+            "Fighting"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Pawmot",
+        "type": [
+            "Electric",
+            "Fighting"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Nymble",
+        "type": [
+            "Bug"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Lokix",
+        "type": [
+            "Bug",
+            "Dark"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Nacli",
+        "type": [
+            "Rock"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Naclstack",
+        "type": [
+            "Rock"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Garganacl",
+        "type": [
+            "Rock"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Charcadet",
+        "type": [
+            "Fire"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Armarouge",
+        "type": [
+            "Fire",
+            "Psychic"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Ceruledge",
+        "type": [
+            "Fire",
+            "Ghost"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Bellibolt",
+        "type": [
+            "Electric"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Wattrel",
+        "type": [
+            "Electric",
+            "Flying"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Kilowattrel",
+        "type": [
+            "Electric",
+            "Flying"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Mabosstiff",
+        "type": [
+            "Dark"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Grafaiai",
+        "type": [
+            "Poison",
+            "Normal"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Capsakid",
+        "type": [
+            "Grass"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Scovillain",
+        "type": [
+            "Grass",
+            "Fire"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Rabsca",
+        "type": [
+            "Bug",
+            "Psychic"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Flittle",
+        "type": [
+            "Psychic"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Espathra",
+        "type": [
+            "Psychic"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Tinkatink",
+        "type": [
+            "Fairy",
+            "Steel"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Tinkatuff",
+        "type": [
+            "Fairy",
+            "Steel"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Tinkaton",
+        "type": [
+            "Fairy",
+            "Steel"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Wiglett",
+        "type": [
+            "Water"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Wugtrio",
+        "type": [
+            "Water"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Flamigo",
+        "type": [
+            "Flying",
+            "Fighting"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Cetoddle",
+        "type": [
+            "Ice"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Cetitan",
+        "type": [
+            "Ice"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Dondozo",
+        "type": [
+            "Water"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Annihilape",
+        "type": [
+            "Fighting",
+            "Ghost"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Clodsire",
+        "type": [
+            "Poison",
+            "Ground"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Farigiraf",
+        "type": [
+            "Normal",
+            "Psychic"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Great Tusk",
+        "type": [
+            "Ground",
+            "Fighting"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Scream Tail",
+        "type": [
+            "Fairy",
+            "Psychic"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Brute Bonnet",
+        "type": [
+            "Grass",
+            "Dark"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Flutter Mane",
+        "type": [
+            "Ghost",
+            "Fairy"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Slither Wing",
+        "type": [
+            "Bug",
+            "Fighting"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Iron Hands",
+        "type": [
+            "Fighting",
+            "Electric"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Iron Moth",
+        "type": [
+            "Fire",
+            "Poison"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Iron Thorns",
+        "type": [
+            "Rock",
+            "Electric"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Frigibax",
+        "type": [
+            "Dragon",
+            "Ice"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Arctibax",
+        "type": [
+            "Dragon",
+            "Ice"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Baxcalibur",
+        "type": [
+            "Dragon",
+            "Ice"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Gholdengo",
+        "type": [
+            "Steel",
+            "Ghost"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Wo-Chien",
+        "type": [
+            "Dark",
+            "Grass"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Chien-Pao",
+        "type": [
+            "Dark",
+            "Ice"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Ting-Lu",
+        "type": [
+            "Dark",
+            "Ground"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Chi-Yu",
+        "type": [
+            "Dark",
+            "Fire"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Iron Valiant",
+        "type": [
+            "Fairy",
+            "Fighting"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Koraidon",
+        "type": [
+            "Fighting",
+            "Dragon"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Miraidon",
+        "type": [
+            "Electric",
+            "Dragon"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Walking Wake",
+        "type": [
+            "Water",
+            "Dragon"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Okidogi",
+        "type": [
+            "Poison",
+            "Fighting"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Gouging Fire",
+        "type": [
+            "Fire",
+            "Dragon"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Raging Bolt",
+        "type": [
+            "Electric",
+            "Dragon"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Paldean Tauros",
+        "type": [
+            "Fighting",
+            "Fire"
+        ],
+        "region": "Paldea"
+    },
+    {
+        "name": "Bloodmoon Ursaluna",
+        "type": [
+            "Normal",
+            "Ground"
+        ],
+        "region": "Paldea"
+    }
+]
