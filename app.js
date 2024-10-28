@@ -1,5 +1,6 @@
 // app.js
-const API_URL = "http://localhost:3000/api/pokemon";
+const API_URL = "https://pokedex-app-production-c690.up.railway.app/api/pokemon";
+
 
 function capitalize(word) {
     if (typeof word !== "string" || !word) {
